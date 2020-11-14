@@ -6,8 +6,8 @@ I'm a Software Engineer and [Microsoft Data Platform MVP](https://mvp.microsoft.
 
 * (Programming languages): C#, JavaScript, Python, SQL, Terraform, Powershell.
 * (Databases): Azure Cosmos DB, SQL Server, MongoDB.
-* Technologies: Azure, Git, GitHub, Visual Studio, Azure DevOps.
-* Other: API Design, Non-relational Database Design, Unit Testing (xUnit), Integration Testing (SpecFlow) & E2E Testing.
+* (Technologies): Azure, Git, GitHub, Visual Studio, Azure DevOps.
+* (Other): API Design, Non-relational Database Design, Unit Testing (xUnit), Integration Testing (SpecFlow) & E2E Testing.
 
 ### ☕ Work
 

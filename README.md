@@ -1,13 +1,13 @@
 ## Hi there, I'm Will
 
-I'm a Software Engineer and [Microsoft Data Platform MVP]() living and working in Auckland, New Zealand.
+I'm a Software Engineer and [Microsoft Data Platform MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003727?fullName=Will%20%20Velida) living and working in Auckland, New Zealand.
 
 ### ⚡ Languages and Technologies
 
 * (Programming languages): C#, JavaScript, Python, SQL, Terraform, Powershell.
-* (Databases): Azure Cosmos DB, SQL Server, MongoDB
+* (Databases): Azure Cosmos DB, SQL Server, MongoDB.
 * Technologies: Azure, Git, GitHub, Visual Studio, Azure DevOps.
-* Other: API Design, Non-relational Database Design, Unit Testing (xUnit), Integration Testing (SpecFlow) & E2E Testing
+* Other: API Design, Non-relational Database Design, Unit Testing (xUnit), Integration Testing (SpecFlow) & E2E Testing.
 
 ### ☕ Work
 
@@ -17,7 +17,7 @@ I'm a Software Engineer and [Microsoft Data Platform MVP]() living and working i
 ### 💻 Open Source Contributions and Project Highlights
 
 * **[MLOps.NET](https://github.com/aslotte/MLOps.NET)** - A machine learning model operations and management tool for ML.NET. Added the ability to [describe registered models](https://github.com/aslotte/MLOps.NET/pull/283) and the ability to [tag deployment target models as production models](https://github.com/aslotte/MLOps.NET/pull/295).
-* **[Serverless Price Predictor](https://github.com/willvelida/serverless-price-predictor)** - Azure Functions application containing two functions: 1 Timer trigger that trains and saves a machine learning model built using ML.NET into Azure Blob Storage when invoked and 2, HTTP trigger that makes predictions on how much a taxi trip will cost. Model is loaded from Azure Blob Storage into the API.
+* **[Serverless Price Predictor](https://github.com/willvelida/serverless-price-predictor)** - Azure Functions application containing two functions: 1, Timer trigger that trains and saves a machine learning model built using ML.NET into Azure Blob Storage when invoked and 2, HTTP trigger that makes predictions on how much a taxi trip will cost. Model is loaded from Azure Blob Storage into the API.
 
 ### 📫 How to reach me
 

@@ -17,9 +17,7 @@ I'm a Software Engineer and [Microsoft Data Platform MVP]() living and working i
 ### 💻 Open Source Contributions and Project Highlights
 
 * **[MLOps.NET](https://github.com/aslotte/MLOps.NET)** - A machine learning model operations and management tool for ML.NET. Added the ability to [describe registered models](https://github.com/aslotte/MLOps.NET/pull/283) and the ability to [tag deployment target models as production models](https://github.com/aslotte/MLOps.NET/pull/295).
-* **[Serverless Price Predictor](https://github.com/willvelida/serverless-price-predictor)** - Azure Functions application containing two functions:
-..* Timer trigger that trains and saves a machine learning model built using ML.NET into Azure Blob Storage when invoked.
-..* HTTP trigger that makes predictions on how much a taxi trip will cost. Model is loaded from Azure Blob Storage into the API.
+* **[Serverless Price Predictor](https://github.com/willvelida/serverless-price-predictor)** - Azure Functions application containing two functions: 1 Timer trigger that trains and saves a machine learning model built using ML.NET into Azure Blob Storage when invoked and 2, HTTP trigger that makes predictions on how much a taxi trip will cost. Model is loaded from Azure Blob Storage into the API.
 
 ### 📫 How to reach me
 

@@ -1,4 +1,4 @@
-## Hi there, I'm Will
+## Hi there, I'm Will (He/Him)
 
 I'm a Software Engineer and [Microsoft Data Platform MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003727?fullName=Will%20%20Velida) living and working in Auckland, New Zealand.
 
@@ -17,6 +17,7 @@ I'm a Software Engineer and [Microsoft Data Platform MVP](https://mvp.microsoft.
 ### 💻 Open Source Contributions and Project Highlights
 
 * **[MLOps.NET](https://github.com/aslotte/MLOps.NET)** - A machine learning model operations and management tool for ML.NET. Added the ability to [describe registered models](https://github.com/aslotte/MLOps.NET/pull/283) and the ability to [tag deployment target models as production models](https://github.com/aslotte/MLOps.NET/pull/295).
+* **[MyHealth](https://github.com/willvelida/MyHealth)** - Personal Health application using various mircoservices to track my health metrics. CSV files are downloaded from my fitbit.com which are then dropped into a local directory. Docker containers that listen to these directories and upload the CSV file to Blob Storage. This triggers an event via EventGrid which invokes Azure Functions to store the data in Azure Cosmos DB. 
 * **[Serverless Price Predictor](https://github.com/willvelida/serverless-price-predictor)** - Azure Functions application containing two functions: 1, Timer trigger that trains and saves a machine learning model built using ML.NET into Azure Blob Storage when invoked and 2, HTTP trigger that makes predictions on how much a taxi trip will cost. Model is loaded from Azure Blob Storage into the API.
 
 ### 📫 How to reach me

@@ -1,6 +1,6 @@
 ## Hi there, I'm Will (He/Him)
 
-I'm a Software Engineer and [Microsoft Data Platform MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003727?fullName=Will%20%20Velida) living and working in Auckland, New Zealand.
+I'm an Azure Integration Consultant and [Microsoft Data Platform MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003727?fullName=Will%20%20Velida) living and working in Auckland, New Zealand.
 
 ### ⚡ Languages and Technologies
 

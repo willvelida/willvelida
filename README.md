@@ -11,7 +11,8 @@ I'm a Software Engineer and [Microsoft Data Platform MVP](https://mvp.microsoft.
 
 ### ☕ Work
 
-* **ASB Bank**: Current job. Building systems that deal with domestic payments within New Zealand. These applications are built on the Azure Functions Framework using C#, use of Event Hubs as the messaging broker and Azure Cosmos DB as the datastore.
+* **Datacom**: Current job. Azure Integration Consultant.
+* **ASB Bank**: Built systems that deal with domestic payments within New Zealand. These applications are built on the Azure Functions Framework using C#, use of Event Hubs as the messaging broker and Azure Cosmos DB as the datastore.
 * **Orion Health**: Worked on building internal facing data generator tools that simulated health scenarios. Involved in a team of three that built a web application using the Spring Framework that allowed end users to build realistic patients to generate HL7 messages that could be consumed by other systems.
 
 ### 💻 Open Source Contributions and Project Highlights

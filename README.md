@@ -1,6 +1,6 @@
 ## Hi there, I'm Will (He/Him)
 
-I'm an Azure Integration Consultant and [Microsoft Data Platform MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003727?fullName=Will%20%20Velida) living and working in Auckland, New Zealand.
+I'm a Customer Engineer for Microsoft working in the Fast Track for Azure team! My focus is on Azure Apps (App Service, Containers, Functions all that good stuff!) and I'm based in Auckland, New Zealand.
 
 ### ⚡ Languages and Technologies
 
@@ -11,7 +11,8 @@ I'm an Azure Integration Consultant and [Microsoft Data Platform MVP](https://mv
 
 ### ☕ Work
 
-* **Datacom**: Current job. Azure Integration Consultant.
+* **Microsoft**: Current job. Fast Track for Azure Engineer focusing on Apps.
+* **Datacom**: Software engineering and architect role developing cloud solutions using Azure Functions, Azure App Service, Service Bus, APIM, Azure SQL and Azure Cosmos DB to integrate with customer’s existing technical infrastructure and business processes.
 * **ASB Bank**: Built systems that deal with domestic payments within New Zealand. These applications are built on the Azure Functions Framework using C#, use of Event Hubs as the messaging broker and Azure Cosmos DB as the datastore.
 * **Orion Health**: Worked on building internal facing data generator tools that simulated health scenarios. Involved in a team of three that built a web application using the Spring Framework that allowed end users to build realistic patients to generate HL7 messages that could be consumed by other systems.
 

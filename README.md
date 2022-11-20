@@ -24,6 +24,7 @@ I'm a Customer Engineer for Microsoft working in the Fast Track for Azure team! 
 
 ### 📫 How to reach me
 
+* [Mastodon](https://mastodon.social/@willvelida)
 * [Twitter](https://twitter.com/willvelida)
 * [LinkedIn](https://www.linkedin.com/in/willvelida/)
 * [Medium](https://medium.com/@willvelida)
